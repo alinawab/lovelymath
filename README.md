@@ -1,5 +1,9 @@
 # lovely-math
 
+a simple calculator made with Vue.js
+
+Demo: http://lovelymath.web.app
+
 ## Project setup
 ```
 npm install
